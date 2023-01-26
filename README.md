@@ -25,7 +25,8 @@ npm install -D concurrently nodemon
 To run ExpressJs 
 npm run server
 
+Create a folder Data and create another folder in Data folder called db
 Set the path for mongodb
-mongod.exe --dbpath "C:\Users\Lynne\OneDrive - Strathmore University\Desktop\Data\db"
+mongod.exe --dbpath "C:path\Data\db"
 
 
