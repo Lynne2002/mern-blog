@@ -1,0 +1,15 @@
+{
+  "name": "mern-blog",
+  "version": "1.0.0",
+  "description": "Mern blog Application to learn React, MongoDB, NodeJS and ExpressJs",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "Lynne Chebet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
